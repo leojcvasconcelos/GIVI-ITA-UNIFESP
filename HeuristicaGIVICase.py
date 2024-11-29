@@ -609,5 +609,5 @@ def main(file_path):
 # In[14]:
 
 
-file_path = 'C:\\Users\\leona\\Downloads\\TempoProducaoTeste.xlsx'  # Substitua com o caminho correto do arquivo Excel
+file_path = 'TempoProducaoTeste.xlsx'  # Substitua com o caminho correto do arquivo Excel
 main(file_path)
